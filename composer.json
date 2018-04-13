@@ -4,7 +4,7 @@
     "homepage": "https://github.com/athenaspa/filter_var",
     "license": "Apache2",
     "autoload": {
-        "files": ["filter_var.php"]
+        "files": ["wrapper.php"]
     },
     "minimum-stability": "dev"
 }
