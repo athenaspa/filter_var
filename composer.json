@@ -5,6 +5,6 @@
     "license": "Apache2",
     "autoload": {
         "files": ["filter_var.php"]
-    }
+    },
     "minimum-stability": "dev"
 }
